@@ -6,5 +6,6 @@ theme = "casper"
 [params]
   description = "You are a child of the universe no less than the trees and the stars; you have a right to be here. Desiderata"
   cover = "images/cover.jpg"
+  logo = "images/zkanda.png"
   author = "Zakatell Kanda"
   authorwebsite = "http://zkanda.io"
